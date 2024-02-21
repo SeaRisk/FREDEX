@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 from datetime import datetime
 
 # Replace 'YOUR_FRED_API_KEY' with actual FRED API key
-FRED_API_KEY = '78ebaa886dab75a49844635695eb19a0'
+FRED_API_KEY = ''
 
 def fetch_fred_series_data(series_id, start_date, end_date):
     """Fetches time series data from the FRED API."""
