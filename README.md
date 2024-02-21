@@ -4,4 +4,4 @@ This is a single python test of concept file. It can be run by any python 3 syst
 
 # Running 
 
-Running the file will require an API key from FRED website. This can be acquired by going to FRED and making an account then requesting an API key. An example API call was generated as a png as a proof of concept.
+Running the file will require an API key from [FRED](https://fred.stlouisfed.org/) website. This can be acquired by going to FRED and making an account then requesting an API key. An example API call was generated as a png as a proof of concept.
